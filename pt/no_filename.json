@@ -1,0 +1,18 @@
+{
+    "password": "Senha",
+    "log_in": "Conecte-se",
+    "e-mail": "E-mail",
+    "looking_to_join_an_existing_team_instead?_log_in": "Deseja ingressar em uma equipe existente? Conecte-se",
+    "john@better.com": "john@better.com",
+    "•••••••••••••": "•••••••••••••",
+    "sign_up": "Inscrever-se",
+    "better": "Melhorar",
+    "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Ao se inscrever, você aceita nossos <u> Termos de Serviço <\/u> e <u> Política de Privacidade <\/u> .",
+    "or_sign_up_with_your_email": "Ou cadastre-se com seu e-mail",
+    "better@lokalise.com": "Better@lokalise.com",
+    "username": "Nome de usuário",
+    "log_in_with_sso": "Faça login com SSO",
+    "log_in_with_google": "Faça login com o Google",
+    "full_name": "Nome completo",
+    "sign_up_with_google": "Inscreva-se com o Google"
+}
