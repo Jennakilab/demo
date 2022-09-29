@@ -1,0 +1,18 @@
+{
+    "password": "Mật khẩu",
+    "log_in": "Đăng nhập",
+    "e-mail": "E-mail",
+    "looking_to_join_an_existing_team_instead?_log_in": "Thay vào đó, bạn muốn tham gia vào một nhóm hiện có? Đăng nhập",
+    "john@better.com": "john@better.com",
+    "•••••••••••••": "•••••••••••••",
+    "sign_up": "Đăng ký",
+    "better": "Tốt hơn",
+    "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Bằng cách đăng ký, bạn chấp nhận <u> Điều khoản dịch vụ <\/u> và <u> Chính sách quyền riêng tư <\/u> của chúng tôi.",
+    "or_sign_up_with_your_email": "Hoặc đăng ký bằng email của bạn",
+    "better@lokalise.com": "better@lokalise.com",
+    "username": "tên tài khoản",
+    "log_in_with_sso": "Đăng nhập bằng SSO",
+    "log_in_with_google": "Đăng nhập với Google",
+    "full_name": "Họ và tên",
+    "sign_up_with_google": "Đăng ký với Google"
+}
